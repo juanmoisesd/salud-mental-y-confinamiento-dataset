@@ -1,0 +1,34 @@
+{
+  "title": "Salud Mental Y Confinamiento Dataset",
+  "description": "Open research dataset: Salud Mental Y Confinamiento Dataset. By Juan Moisés de la Serna Tuya (UNIR).",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "salud mental",
+    "mental health",
+    "dataset",
+    "open data",
+    "research"
+  ],
+  "language": "eng",
+  "access_right": "open",
+  "license": "cc-zero",
+  "upload_type": "dataset",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isIdenticalTo",
+      "identifier": "https://github.com/juanmoisesd/salud-mental-y-confinamiento-dataset",
+      "scheme": "url"
+    }
+  ]
+}
